@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/15 21:13:12.000.801,=C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/03/15 21:13:25.000.440,C:\Users\lujex\Documents\RAD Studio\Projects\Cliente.dproj=C:\Users\lujex\Documents\RAD Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2021/03/15 21:13:50.000.346,C:\Users\lujex\Desktop\Crud_delphi\Cliente\Ucliente.pas=C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/03/15 21:13:50.000.346,C:\Users\lujex\Desktop\Crud_delphi\Cliente\Ucliente.dfm=C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2021/03/15 21:13:51.000.625,C:\Users\lujex\Desktop\Crud_delphi\Cliente\Cliente.dproj=C:\Users\lujex\Documents\RAD Studio\Projects\Cliente.dproj</Transaction>
+    <Transaction>2021/03/15 21:21:06.000.007,=C:\Users\lujex\Desktop\Crud_delphi\Server\ServidorDatos_TLB.pas</Transaction>
+    <Transaction>2021/03/15 22:54:33.000.408,C:\Users\lujex\Desktop\Crud_delphi\Server\ServidorDatos_TLB.pas=</Transaction>
+    <Transaction>2021/03/15 22:59:23.000.990,=C:\Users\lujex\Desktop\Crud_delphi\Cliente\Ucliente.pas</Transaction>
+    <Transaction>2021/04/30 17:20:13.000.690,C:\DIGITAL_WHARE\Prueba Delphi\3-Prueba\3- Solucion Codigo\Crud_delphi\Cliente\FPrincipal.pas=C:\DIGITAL_WHARE\Prueba Delphi\3-Prueba\3- Solucion Codigo\Crud_delphi\Cliente\Ucliente.pas</Transaction>
+    <Transaction>2021/04/30 17:20:13.000.690,C:\DIGITAL_WHARE\Prueba Delphi\3-Prueba\3- Solucion Codigo\Crud_delphi\Cliente\FPrincipal.dfm=C:\DIGITAL_WHARE\Prueba Delphi\3-Prueba\3- Solucion Codigo\Crud_delphi\Cliente\Ucliente.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

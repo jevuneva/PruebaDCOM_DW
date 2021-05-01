@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/26 17:20:06.000.892,=C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/03/15 20:10:52.000.493,=C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/03/15 20:11:08.000.638,C:\Users\lujex\Documents\RAD Studio\Projects\Project5.dproj=C:\Users\lujex\Documents\RAD Studio\Projects\ServidorDatos.dproj</Transaction>
+    <Transaction>2021/03/15 20:11:25.000.041,C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.dfm=C:\Users\lujex\Desktop\Crud_delphi\Server\USever.dfm</Transaction>
+    <Transaction>2021/03/15 20:11:25.000.041,C:\Users\lujex\Documents\RAD Studio\Projects\Unit5.pas=C:\Users\lujex\Desktop\Crud_delphi\Server\USever.pas</Transaction>
+    <Transaction>2021/03/15 20:11:26.000.986,C:\Users\lujex\Documents\RAD Studio\Projects\ServidorDatos.dproj=C:\Users\lujex\Desktop\Crud_delphi\Server\ServidorDatos.dproj</Transaction>
+    <Transaction>2021/03/15 20:12:19.000.826,=C:\Users\lujex\Desktop\Crud_delphi\Server\ServidorDatos_TLB.pas</Transaction>
+    <Transaction>2021/03/15 20:12:19.000.803,=C:\Users\lujex\Desktop\Crud_delphi\Server\ServidorDatos.ridl</Transaction>
+    <Transaction>2021/03/15 20:12:20.000.149,=C:\Users\lujex\Desktop\Crud_delphi\Server\Unit1.pas</Transaction>
+    <Transaction>2021/03/15 20:12:57.000.813,C:\Users\lujex\Desktop\Crud_delphi\Server\Unit1.dfm=C:\Users\lujex\Desktop\Crud_delphi\Server\UServidorDCOM.dfm</Transaction>
+    <Transaction>2021/03/15 20:12:57.000.813,C:\Users\lujex\Desktop\Crud_delphi\Server\Unit1.pas=C:\Users\lujex\Desktop\Crud_delphi\Server\UServidorDCOM.pas</Transaction>
+    <Transaction>2021/03/16 13:08:36.000.554,C:\Users\lujex\Desktop\Crud_delphi\Server\ServidorDatos_TLB.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
